@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+build/
+.DS_Store
+Thumbs.db
