@@ -12,3 +12,6 @@ __pycache__/
 build/
 .DS_Store
 Thumbs.db
+*__init__.py
+secrets.h
+medidor.db
